@@ -133,4 +133,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, contact Samuel Rurangamirwa at [samuel@example.com](mailto:samuelrurangamirwa@gmail.com).
+For any inquiries, contact Samuel Rurangamirwa at [samuelrurangamirwa@gmail.com](mailto:samuelrurangamirwa@gmail.com).
