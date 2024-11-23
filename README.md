@@ -31,7 +31,7 @@ Smart Stay is a hotel booking system that allows users to register, log in, view
 1. Clone the repository:
 
     ```bash
-    [git clone https://github.com/samuelrurangamirwa/smart_stay.git](https://github.com/samuelrurangamirwa/smart_stay.git)
+    git clone https://github.com/samuelrurangamirwa/smart_stay.git
     cd smart-stay-booking-system
     ```
 
